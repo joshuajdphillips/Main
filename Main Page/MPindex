@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta caharset="UTF-8">
+    <title>Joshua Phillips</title>
+    </head>
+    
+    <body>
+    <center>
+        <h3>Joshua Phillips</h3>
+        <h1>IT Project Manager</h1>
+        <hr/>
+        <img src="../Images/Jphillipsgty.png" alt="Joshua Phillips at Grace to You Radio Ministires."><br>
+        <text> Me at Grace to You Ministies!</text>
+    </center>
+
+    
+        <h3>Current Skills:</h3>
+        <ul>
+            <li>HTML</li>
+            <li>Microsoft Word and Excel</li>
+        </ul>
+    <hr>
+    <center>
+
+        
+    <a href="../Contact Page/CPIndex">Click Here for Contact Page</a><P>
+    </center>
+    </body>
+    
+</html>
